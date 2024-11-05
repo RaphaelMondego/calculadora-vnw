@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
 }
 `
 export const Main = styled.main`
-    background-color: #f9e1f5;
+    background-color: #add8e6;
     height: 100vh;
     display: flex;
     flex-direction: column;
